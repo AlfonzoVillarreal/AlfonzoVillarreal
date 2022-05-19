@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlfonzoVillarreal
-- 👀 I’m interested in becoming a web developer!
-- 🌱 I’m currently learning full-stack development from the Coding Dojo bootcamp.
-- 💞️ I’m looking to collaborate on projects that would help me advance on my skills in front-end or back-end developement
+- 👀 I’m interested pursing a career in tech
+- 🌱 I’m currently a full-stack development learning different libraries and creating new projects
 - 📫 How to reach me. You can reach me through my email at: alfonzovillarreal2@yahoo.com
 - My LinkedIn profile is: https://www.linkedin.com/in/alfonzovillarreal/
 
